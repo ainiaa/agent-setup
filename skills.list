@@ -1,0 +1,16 @@
+# skill 安装清单：每行一个 npx skills add 的参数
+# 格式：<owner>/<repo> 或 <owner>/<repo> -s <skill名>
+# 带 TODO 的行需要补上真实仓库地址
+
+# ---- 已确认的公开 skill ----
+nextlevelbuilder/ui-ux-pro-max-skill      # ui-ux-pro-max
+
+# ---- 来源待核对（本机已装，首次核对后取消注释）----
+# openai/skills                             # skill-installer / find-skills（curated 目录）
+# jorgeasaurus/agent-skills                 # find-skills / review-agent-setup 的候选来源
+
+# ---- 同事的开源 PDLC 套件 ----
+# TODO <同事GitHub用户名>/<pdlc仓库名>       # pdlc-arch / pdlc-deploy / pdlc-tdd 等 35 个
+
+# ---- 你自己的开源 skill ----
+# TODO <你的GitHub用户名>/<你的skill仓库名>
