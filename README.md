@@ -5,7 +5,7 @@
 ## 一键安装
 
 ```bash
-git clone https://github.com/<你的用户名>/agent-setup.git
+git clone https://github.com/ainiaa/agent-setup.git
 cd agent-setup && ./setup.sh
 ```
 
